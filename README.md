@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 ## My GitHub Journey
 - **Started Open Source**: January 2018
 - **First Major Project**: March 2020
-- **Joined GitHub**: October 2016
