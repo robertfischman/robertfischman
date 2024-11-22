@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">🙏🏻 , I'm Robert Alan Fischman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center">🙏🏻 , I'm Robert Alan Fischman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">! </h1>
 <h3 align="center">I'm a blockchain Developer ❤</h3>
 <h3 align="center">I m known as Dr.Project😄 </h3>
 
@@ -29,24 +29,6 @@ Here are some ideas to get you started:
 ## 📫 How to reach me** 
 ### 📧   Gmail: **robertalan0706@gmail.com**
 
-
-<div style="padding: 20px 0px;"><img src="./qwerty.png" alt=""></div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatshayan&label=Profile%20views&color=0e75b6&style=flat" alt="vatshayan" /> </p>
-
-
-
-</p>
-
-### 📈 Github Stats
-
-<table width="100%">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatshayan&show_icons=true&hide_border=true&theme=prussian"/> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatshayan&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/> </td>
-  </tr>
- <table>
 
 **Hope I get a Chance to Help you too 🙏🙏**
 
