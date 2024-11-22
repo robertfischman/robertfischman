@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My GitHub Journey
-- **Started Open Source**: January 2018
-- **First Major Project**: March 2020
+I'm a blockchain Developer. ❤
+I m known as Dr.Project😄
+⚡ I'm curently Blockchain Developer at Crypto Exchange Company
+🔭 I’m currently working on Blockchain and Web3 Developement
+🌱 I’m currently learning DevOps and Node.js
+👯 I’m looking to collaborate on Different kinds of Software Projects
+💬 Ask me about Help in College Projects, Programming and Development
+⚡ Fun fact: I always reply mails in minutes
+😄 Motivation: Happy Students, Employers and Startups Praise me after taking help from me.
+🌱 Ask Freely!
+📫 How to reach me
+📧 Gmail: vatshayan007@gmail.com
