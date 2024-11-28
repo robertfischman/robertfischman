@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a blockchain Developer ❤</h3>
 <h3 align="center">I' m known as legendary King😄 </h3>
 
-- ⚡  I'm curently Blockchain Developer at Crypto Exchange Company
+- ⚡  I'm curently Blockchain Developer at Crypto Company
 - 🔭 I’m currently working on Blockchain and Web3 Developement
 - 🌱 I’m currently learning DevOps and Node.js 
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
