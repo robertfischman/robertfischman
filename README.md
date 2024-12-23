@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">🙏🏻 , I'm Robert Alan Fischman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">! </h1>
-<h3 align="center">I'm a blockchain Developer ❤</h3>
+<h3 align="center">I'm a senior fullstack blockchain Developer ❤</h3>
 <h3 align="center">I' m known as legendary King😄 </h3>
 
 - ⚡  I'm curently Blockchain Developer at Crypto Company
-- 🔭 I’m currently working on Blockchain and Web3 Developement
-- 🌱 I’m currently learning DevOps and Node.js 
+- 🔭 I’m currently working on Blockchain, Web3 Developement, DevOps and Node.js
+- 🌱 I’m currently learning AI and IOT
 - 👯 I’m looking to collaborate on Different kinds of Software Projects
 - 💬 Ask me about Help in College Projects, Programming and Development
 - ⚡ Fun fact: I always reply mails in minutes
